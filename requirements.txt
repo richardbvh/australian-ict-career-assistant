@@ -1,0 +1,12 @@
+gradio
+chromadb
+faiss-cpu
+sentence-transformers
+PyYAML
+requests
+python-dotenv
+pypdf
+PyMuPDF
+google-genai
+
+
